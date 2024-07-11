@@ -24,7 +24,7 @@
 
 
 .banner-container{
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(../assets/Hero-bg.png);
     width:1500px ;
     height:600px ;
     display: flex;
