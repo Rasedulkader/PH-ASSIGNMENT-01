@@ -172,7 +172,7 @@
     height: 300px;
     margin: 10%;
     border-radius: 8px;
-    background-image: url(../assets/handshake.jpg);
+    background-image: url("../assets/handshake.jpg");
     
 }
 
